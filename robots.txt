@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap:
+https://sayem-bin-ali.github.io/sba-technologies/sitemap.xml
