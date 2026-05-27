@@ -9,7 +9,6 @@ SBA Technologies is an emerging tech initiative founded and led by **Sayem Bin A
 The website is architected using clean, semantic frontend technologies split across multiple dedicated pages:
 * `index.html` — The core introductory home gateway.
 * `about.html` — Detailed insight into our company's mission and founder's vision.
-* `skills.html` — Breakdown of technical expertise and programming stacks.
 * `projects.html` — Interactive catalog for active and upcoming software releases.
 * `contact.html` — Dedicated secure access point for global business inquiries.
 * `style.css` — Global styling architecture mapping responsive visual variables.
