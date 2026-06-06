@@ -1,14 +1,14 @@
 {
   "name": "SBA Technologies",
   "short_name": "SBA Tech",
-  "start_url": "/",
+  "start_url": "/sba-technologies/",
   "display": "standalone",
   "background_color": "#050816",
   "theme_color": "#00ffe5",
 
   "icons": [
     {
-      "src": "Untitled design.png",
+      "src": "Untitled_design.png",
       "sizes": "512x512",
       "type": "image/png"
     }
